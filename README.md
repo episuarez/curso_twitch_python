@@ -32,7 +32,7 @@ Recuerda que puedes seguir mi trabajo o ayudarme a compartir el mismo. ¡Gracias
 
 Servicio|URL
 --|--
-Discord|https://discord.gg/RRrByksc
+Discord|https://discord.gg/hvSNTQjpem
 Linkedin|https://www.linkedin.com/in/episuarez
 Twitter|https://twitter.com/episuarez
 Twitch|https://www.twitch.tv/episuarez
