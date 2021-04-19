@@ -4,6 +4,8 @@ En esta página podrás encontrar todo lo necesario para seguir el curso, así c
 
 En la carpeta de ejercicios, encontrarás todos los ejercicios que hemos hecho en directo.
 
+Tambien estamos cerrando el curso con el desarrollo de un videojuego, podeis encontrar el código aquí. https://github.com/episuarez/Naves
+
 ## Dudas sobre el curso
 
 ### ¿Cuanto va a durar el curso?
