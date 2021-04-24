@@ -4,7 +4,7 @@ En esta página podrás encontrar todo lo necesario para seguir el curso, así c
 
 En la carpeta de ejercicios, encontrarás todos los ejercicios que hemos hecho en directo.
 
-Tambien estamos cerrando el curso con el desarrollo de un videojuego, podeis encontrar el código aquí. https://github.com/episuarez/Naves
+Tambien estamos cerrando el curso con el desarrollo de un videojuego, podeis encontrar el código aquí. https://github.com/episuarez/Naves y el desarrollo de la última clase aquí https://github.com/episuarez/ahorcado
 
 ## Dudas sobre el curso
 
