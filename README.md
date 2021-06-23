@@ -8,6 +8,7 @@ Cerrando el curso con el desarrollo de un videojuego, podeis encontrar el códig
 
 * [vsCode](https://code.visualstudio.com/)
 * [Extensión Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+* [Software Python](https://www.python.org/)
 
 ## Redes sociales
 
